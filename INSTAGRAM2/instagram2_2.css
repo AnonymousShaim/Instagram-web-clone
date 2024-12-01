@@ -1,0 +1,28 @@
+@media screen and (max-width:750px){
+    .left{
+        display: none;
+        width: 0px;
+        height: 0px;
+    }
+    .container{
+        width:auto;
+    }
+    .bottom{
+        width: 100%;
+        display: flex;
+        flex-wrap: wrap;
+        /* margin: 0 auto; */
+    }
+    .bottom1{
+        width: 80%;
+        display: flex;
+        flex-wrap: wrap;
+        line-height: px;
+        /* margin: 0 auto; */
+        gap: 12px;
+    }
+    .bottom2{
+        margin-bottom: 75px;
+    }
+    
+}
